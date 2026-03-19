@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.btn{
+    font-family: Helvetica, Times New Roman, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+#left_btn{
+    color: white;
+    background-color: black;
+}
+#right_btn{
+    color:black;
+    background-color: gold;
+}
